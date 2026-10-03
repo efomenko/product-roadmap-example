@@ -1,24 +1,26 @@
 # Prioritization Framework
 
-## Scoring
+I use a combination of:
 
-Each initiative is evaluated against:
+- Customer impact
+- Business value
+- Strategic alignment
+- Confidence
+- Risk reduction
+- Effort
+- Dependencies
 
-| Factor | Weight |
-|---|---:|
-| Customer Impact | 30% |
-| Business Value | 25% |
-| Strategic Alignment | 20% |
-| Risk Reduction | 15% |
-| Effort | 10% |
+## Example Scoring
 
-## Example
+| Initiative | Impact | Value | Confidence | Effort | Strategic Fit |
+|---|---:|---:|---:|---:|---:|
+| Templates | 5 | 5 | 5 | 2 | 5 |
+| Execution History | 5 | 4 | 5 | 3 | 5 |
+| AI Workflow Builder | 5 | 5 | 3 | 5 | 5 |
+| Custom Scripting | 3 | 4 | 3 | 5 | 3 |
+| Advanced Analytics | 4 | 4 | 4 | 4 | 4 |
 
-| Initiative | Impact | Value | Risk | Effort | Priority |
-|---|---:|---:|---:|---:|---|
-| Workflow Templates | High | High | Medium | Low | High |
-| AI Workflow Builder | High | High | Medium | High | Medium |
-| Custom Scripting | Medium | Medium | High | High | Low |
-| Execution Analytics | High | Medium | High | Medium | High |
+Scores are illustrative.
 
-> Priority is illustrative and demonstrates the framework rather than representing a real production roadmap.
+The objective is not to mechanically calculate a ranking, but to create
+a transparent discussion around trade-offs.
