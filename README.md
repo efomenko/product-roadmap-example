@@ -2,6 +2,10 @@
 
 > Portfolio / educational case study.
 
+## Purpose
+
+Provides an overview of the product strategy and roadmap case study. It explains the product vision, strategic themes, customer problems, prioritization approach, roadmap structure, and outcome-based metrics used to guide investment decisions.
+
 ## Product Vision
 
 Make IT operations simpler by allowing teams to automate repetitive operational processes without requiring custom development.
