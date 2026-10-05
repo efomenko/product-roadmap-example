@@ -1,5 +1,9 @@
 # Product Vision
 
+## Purpose
+
+Defines the long-term customer outcome the product is intended to achieve. The vision provides direction for future product decisions without prescribing specific features or implementation details.
+
 ## Vision
 
 Enable IT teams to automate operational processes easily, reliably,
