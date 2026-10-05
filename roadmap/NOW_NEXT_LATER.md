@@ -1,5 +1,9 @@
 # Now / Next / Later
 
+## Purpose
+
+Provides a flexible view of the roadmap by separating committed near-term work from validated upcoming opportunities and longer-term possibilities. This approach communicates direction without creating false precision around distant delivery dates.
+
 ## NOW
 
 ### Workflow Templates
