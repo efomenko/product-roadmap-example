@@ -1,5 +1,9 @@
 # Product Strategy
 
+## Purpose
+
+Explains the strategic choices required to achieve the product vision. It describes where the product will focus, what customer problems it will prioritize, and how the product will create differentiated customer and business value.
+
 ## Strategic Pillar 1 — Simplicity
 
 Reduce the effort required to create and understand workflows.
