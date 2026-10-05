@@ -1,5 +1,9 @@
 # Prioritization Framework
 
+## Purpose
+
+Explains the framework used to compare competing product opportunities. It considers customer impact, business value, strategic alignment, confidence, effort, dependencies, risk, and other relevant decision factors.
+
 I use a combination of:
 
 - Customer impact
