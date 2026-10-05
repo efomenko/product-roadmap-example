@@ -1,5 +1,9 @@
 # Example OKRs
 
+## Purpose
+
+Translates product strategy into measurable objectives and key results. The document focuses on outcomes rather than feature delivery and demonstrates how product initiatives can be connected to measurable customer and business results.
+
 ## Objective 1
 
 Increase adoption of workflow automation.
